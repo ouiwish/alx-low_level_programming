@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c974ffb8-8e01-48cc-a740-5a85f3612d9e" name="Changes" comment="delete">
-      <change beforePath="$PROJECT_DIR$/0x18-dynamic_libraries/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x18-dynamic_libraries/libdynamic.so" beforeDir="false" afterPath="$PROJECT_DIR$/0x18-dynamic_libraries/libdynamic.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x18-dynamic_libraries/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x18-dynamic_libraries/main.h" afterDir="false" />
+    <list default="true" id="c974ffb8-8e01-48cc-a740-5a85f3612d9e" name="Changes" comment="push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,30 +46,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695649561830</updated>
-    </task>
-    <task id="LOCAL-00036" summary="pointers">
-      <option name="closed" value="true" />
-      <created>1696265876497</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1696265876497</updated>
-    </task>
-    <task id="LOCAL-00037" summary="pointers">
-      <option name="closed" value="true" />
-      <created>1696331866697</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1696331866697</updated>
-    </task>
-    <task id="LOCAL-00038" summary="pointers">
-      <option name="closed" value="true" />
-      <created>1696331950782</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1696331950782</updated>
     </task>
     <task id="LOCAL-00039" summary="pointers">
       <option name="closed" value="true" />
@@ -441,7 +415,31 @@
       <option name="project" value="LOCAL" />
       <updated>1702319429884</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="delete">
+      <option name="closed" value="true" />
+      <created>1702321873316</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1702321873316</updated>
+    </task>
+    <task id="LOCAL-00086" summary="delete">
+      <option name="closed" value="true" />
+      <created>1702321917442</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1702321917442</updated>
+    </task>
+    <task id="LOCAL-00087" summary="push">
+      <option name="closed" value="true" />
+      <created>1702322372581</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1702322372581</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -449,8 +447,8 @@
     <MESSAGE value="0-binary_to_uint.c" />
     <MESSAGE value="readme.md" />
     <MESSAGE value="1-print.binary" />
-    <MESSAGE value="push" />
     <MESSAGE value="delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
 </project>
