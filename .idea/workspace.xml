@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c974ffb8-8e01-48cc-a740-5a85f3612d9e" name="Changes" comment="push">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x1E-search_algorithms/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +47,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695649561830</updated>
-    </task>
-    <task id="LOCAL-00043" summary="pointers">
-      <option name="closed" value="true" />
-      <created>1696332367297</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1696332367297</updated>
     </task>
     <task id="LOCAL-00044" summary="pointers">
       <option name="closed" value="true" />
@@ -440,7 +432,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708760699603</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="push">
+      <option name="closed" value="true" />
+      <created>1712922093587</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1712922093587</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
